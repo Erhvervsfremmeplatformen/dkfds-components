@@ -1,5 +1,5 @@
 {
-  "name": "@vg/dkfds-vite",
+  "name": "@erst-vg/dkfds-vite",
   "version": "1.0.0",
   "description": "Fork af DKFDS version 8.0.1, som virker med Vite",
   "engines": {
